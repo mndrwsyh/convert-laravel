@@ -5,7 +5,7 @@
         <p class="lead mb-4">
           {{ $p }}
         </p>
-        <a href="contact.html" class="btn btn-light btn-lg"
+        <a href="/contact" class="btn btn-light btn-lg"
           >{{ $a }}</a
         >
       </div>
